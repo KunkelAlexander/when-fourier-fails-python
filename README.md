@@ -1,5 +1,5 @@
-# fourierpainter-python
-Visualise complex Fourier transform as sum of plane waves. 
+# when-fourier-fails-python
+Explore strategies to overcome Gibb's and Runge's phenomenon when handling discontinuous and non-periodic data on uniform grids. 
 
 # Usage
 
@@ -9,15 +9,4 @@ Install requirements via
 pip install -r requirements.txt
 ```
 
-Create static figure via 
-```
-python example_code.py
-```
-
-Create animation with default settings via
-```
-python create_animation.py
-```
-Call with ```--h``` for help menu. 
-
-![Simulation](./animation.gif)
+![Runge phenomenon](./figures/runge.png)
