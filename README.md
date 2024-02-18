@@ -7,7 +7,7 @@ The different notebooks implement:
 - Subtraction methods (Polynomial and trigonometric subtraction)
 - Inverse Polynomial Reconstruction (IPR)
 - SVD extensions (Boyd's Fourier extension of the third kind)
-- Gram-Fourier extension (Gram-FE)
+- Gram-Fourier extension (Gram-FE) (see the 'tables' folder for some pre-computed extensions and the corresponding notebook for their computation and usage)
 
 Please look at the linked blog post for a more structure introduction.
 
