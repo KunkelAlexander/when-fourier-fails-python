@@ -1,4 +1,6 @@
 # when-fourier-fails-python
+[![DOI](https://zenodo.org/badge/746284800.svg)](https://doi.org/10.5281/zenodo.15034416)
+
 Explore strategies to overcome Gibb's and Runge's phenomenon when handling discontinuous and non-periodic data on uniform grids. 
 The different notebooks implement:
 - Arbitrary-order finite difference stencils
